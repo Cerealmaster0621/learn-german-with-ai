@@ -1,0 +1,36 @@
+# dependencies
+frontend/src/node_modules
+frontend/src/.pnp
+frontend/src/.pnp.js
+
+# testing
+frontend/src/coverage
+
+# next.js
+frontend/src/.next/
+frontend/src/out/
+
+# production
+frontend/src/build
+
+# misc
+frontend/src/.DS_Store
+frontend/src/*.pem
+frontend/src/.env
+frontend/src/.env.local
+frontend/src/.env.development.local
+frontend/src/.env.test.local
+frontend/src/.env.production.local
+
+# debug
+frontend/src/npm-debug.log*
+frontend/src/yarn-debug.log*
+frontend/src/yarn-error.log*
+
+# IDE
+.idea/
+.vscode/
+
+# typescript
+frontend/src/*.tsbuildinfo
+frontend/src/next-env.d.ts
